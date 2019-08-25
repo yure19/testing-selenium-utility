@@ -1,0 +1,3 @@
+[submodule "selenium_utils"]
+	path = selenium_utils
+	url = https://github.com/guallo/selenium_utils
